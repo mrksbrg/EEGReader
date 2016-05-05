@@ -213,3 +213,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+EEGReader/.idea/misc.xml
+EEGReader/.idea/workspace.xml
+*.class
+*.apk
