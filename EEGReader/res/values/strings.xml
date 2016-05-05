@@ -34,7 +34,7 @@
 
     <!-- BlueTooth -->
     <string name="bluetooth_is_not_available">Bluetooth is not available.</string>
-    <string name="please_activate_bluetooth">Please, activate Bluetooth.</string>
+    <string name="please_activate_bluetooth">Please activate Bluetooth.</string>
 
     <!-- actionbar menu item -->
     <string name="bluetooth_connect_or_disconnect">Connect or disconnect from bluetooth</string>
@@ -48,6 +48,8 @@
     <string name="clear_data_on_device">Clear data on device</string>
     <string name="app_author_note">Application created by: Piotr Wittchen\nhttp://wittchen.biz.pl</string>
     <string name="app_author_website">http://wittchen.biz.pl</string>
+    <string name="app_modder_note">Application modded by: Markus Borg\nhttp://mrksbrg.com</string>
+    <string name="app_modder_website">http://mrksbrg.com</string>
     <string name="clear_data_question">Clear signal data?</string>
     <string name="clearing_data">Clearing data</string>
     <string name="clearing_in_progress">Clearing in progress...</string>
