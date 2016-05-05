@@ -47,6 +47,8 @@ public class SettingsActivity extends GenericActivity implements ActivitySetting
     private CheckBox cbEnableVoiceFeedback;
     @InjectView(R.id.tv_app_author_note)
     private TextView tvAppAuthorNote;
+    @InjectView(R.id.tv_app_modder_note)
+    private TextView tvAppModderNote;
 //    @InjectView(R.id.tv_saved_signals_count)
 //    private TextView tvSavedSignalsCount;
 

@@ -138,5 +138,12 @@
             android:layout_marginTop="@dimen/medium_margin"
             android:text="@string/app_author_note" />
 
+        <TextView
+            android:id="@+id/tv_app_modder_note"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/medium_margin"
+            android:text="@string/app_modder_note" />
+
     </LinearLayout>
 </ScrollView>
