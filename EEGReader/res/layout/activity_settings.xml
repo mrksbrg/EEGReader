@@ -145,5 +145,27 @@
             android:layout_marginTop="@dimen/medium_margin"
             android:text="@string/app_modder_note" />
 
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/medium_margin" >
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/save_to_file"
+                android:id="@+id/btn_SaveToFile" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/save_local_file"
+                android:padding="@dimen/medium_padding"
+                android:gravity="center" />
+        </LinearLayout>
+
     </LinearLayout>
 </ScrollView>

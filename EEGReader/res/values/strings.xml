@@ -50,6 +50,8 @@
     <string name="app_author_website">http://wittchen.biz.pl</string>
     <string name="app_modder_note">Application modded by: Markus Borg\nhttp://mrksbrg.com</string>
     <string name="app_modder_website">http://mrksbrg.com</string>
+    <string name="save_to_file">Save to file</string>
+    <string name="save_local_file">Save csv-file on local device</string>
     <string name="clear_data_question">Clear signal data?</string>
     <string name="clearing_data">Clearing data</string>
     <string name="clearing_in_progress">Clearing in progress...</string>
